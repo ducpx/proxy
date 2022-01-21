@@ -1,4 +1,4 @@
-module github.com/ducpx/gateway
+module github.com/ducpx/proxy
 
 go 1.17
 
